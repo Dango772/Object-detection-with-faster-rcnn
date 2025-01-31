@@ -5,8 +5,9 @@ VDO :
 
 Dataset : https://universe.roboflow.com/cv-project-v2/6-dog-breeds
 
-Slide : 
-[Uploading Bar Camp faster rcnn.pdf…]()
+Slide : [Bar Camp faster rcnn.pdf](https://github.com/user-attachments/files/18624713/Bar.Camp.faster.rcnn.pdf)
+
+
 
 References :
 
