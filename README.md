@@ -1,7 +1,7 @@
 # Object-detection-with-faster-rcnn
 For workshop of Bar camp songkhla.
 
-VDO : 
+VDO : https://fb.watch/xF8N2Gp9de/
 
 Dataset : https://universe.roboflow.com/cv-project-v2/6-dog-breeds
 
