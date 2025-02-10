@@ -1,4 +1,7 @@
 # Object-detection-with-faster-rcnn
+
+![image](https://github.com/user-attachments/assets/2e27c474-4d2e-4825-b3f9-0bdd13560ba2)
+
 For workshop of Bar camp songkhla.
 
 VDO : https://fb.watch/xF8N2Gp9de/
@@ -23,5 +26,5 @@ References :
 [10] Reddit user. (2013, July 9). YOLO, Faster R-CNN, and DETR: Object detection. Reddit. Retrieved February 1, 2025, from https://www.reddit.com/r/computervision/comments/1hd2i4q/yolo_faster_rcnn_and_detr_object_detection/
 [11] StatQuest with Josh Starmer. (2020, June 10). Deep learning: A visual introduction for beginners [Video]. YouTube. Retrieved February 1, 2025, from https://www.youtube.com/watch?v=qC4yEiJOJtM&t=463s
 
-![image](https://github.com/user-attachments/assets/2e27c474-4d2e-4825-b3f9-0bdd13560ba2)
+
 
